@@ -1,5 +1,5 @@
 
-# hive-ai
+# Distill2Vec
 
 This is the implementation of "Distill2Vec: Dynamic Graph Representation Learning with Knowledge Distillation", S. Antaris, D. Rafailidis, ASONAM 2020.
 
